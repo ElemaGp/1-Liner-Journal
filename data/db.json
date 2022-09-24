@@ -1,0 +1,58 @@
+{
+  "blogs": [
+    {
+      "title": "Frisbee ",
+      "body": "I was wondering why the frisbee kept getting bigger and bigger, but then it hit me.",
+      "author": "mario",
+      "id": 1
+    },
+    {
+      "title": "Camo pants",
+      "body": "I went to buy some camo pants but couldn’t find any.",
+      "author": "Jonah",
+      "id": 2
+    },
+    {
+      "title": "Answer",
+      "body": "\"Don’t you hate it when someone answers their own questions? I do\" ",
+      "author": "Grace",
+      "id": 3
+    },
+    {
+      "title": "Eyebrows",
+      "body": "I told my girlfriend she drew her eyebrows too high. She seemed surprised.",
+      "author": "Mark",
+      "id": 4
+    },
+    {
+      "title": "Two fish",
+      "body": "Two fish are in a tank. One says, ‘How do you drive this thing?’",
+      "author": "Jane",
+      "id": 5
+    },
+    {
+      "title": "Calories",
+      "body": "Just burned 2,000 calories. That’s the last time I leave brownies in the oven while I nap.",
+      "author": "Jeremy",
+      "id": 6
+    },
+    {
+      "title": "Anti-gravity",
+      "body": "I’m reading a book about anti-gravity. It’s impossible to put down.",
+      "author": "Mark",
+      "id": 7
+    },
+    {
+      "title": "Future, Present and Past",
+      "body": "The future, the present, and the past walk into a bar. Things got a little tense.",
+      "author": "Steven",
+      "id": 8
+    },
+    {
+      "title": "Gloves",
+      "body": "I got a new pair of gloves today, but they’re both ‘lefts,’ which on the one hand is great, but on the other, it’s just not right.",
+      "author": "Mario",
+      "id": 9
+    }
+  ]
+}
